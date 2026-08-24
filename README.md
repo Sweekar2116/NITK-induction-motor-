@@ -1,7 +1,10 @@
 # NITK Induction Motor Simulation
 
 This project is a browser-based induction motor simulation and performance analysis interface built for educational and laboratory use. It allows users to explore motor characteristics, view live performance metrics, capture readings, and compare table and graph modes.
+
 <img width="1890" height="850" alt="image" src="https://github.com/user-attachments/assets/df75bb39-b13d-4fad-9fa5-488b636ed823" />
+<img width="1902" height="865" alt="image" src="https://github.com/user-attachments/assets/4bdc948d-1fd3-41d7-afe4-6115a16f37c5" />
+
 
 
 ## Project Structure
